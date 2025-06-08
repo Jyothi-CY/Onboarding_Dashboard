@@ -1,6 +1,6 @@
 # 🚀 Onboarding & Dashboard Interface
 
-A clean, responsive onboarding and dashboard web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. This project demonstrates a professional multi-step onboarding flow, dynamic dashboard interface, and persistent user experience through localStorage—all wrapped in a modern UI.
+A clean, responsive onboarding and dashboard web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. This project demonstrates a professional multi-step onboarding flow, dynamic dashboard interface, and persistent user experience through localStorage all wrapped in a modern UI.
 
 🌐 **Live Demo:** [magical-panda-fc9e76.netlify.app](https://magical-panda-fc9e76.netlify.app)  
 📁 **GitHub Repo:** [Jyothi-CY/Onboarding_Dashboard](https://github.com/Jyothi-CY/Onboarding_Dashboard)
@@ -9,7 +9,7 @@ A clean, responsive onboarding and dashboard web application built with **React*
 
 ## 📝 Task Overview
 
-** Built a fully functional onboarding flow and dashboard using modern web technologies.
+Built a fully functional onboarding flow and dashboard using modern web technologies.
 
 #### 1️⃣ Multi-step Onboarding Wizard
 - **Step 1:** Personal Info – Name, Email  
