@@ -1,4 +1,4 @@
-*Core Features*
+* Core Features *
 Multi-step onboarding wizard with validation and smooth transitions 
 Progress tracking with animated progress bar 
 Professional dashboard with informative cards
