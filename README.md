@@ -52,35 +52,12 @@ A clean, responsive onboarding and dashboard web application built with **React*
 
 ## 📁 Folder Structure
 
-project-root/
-├── src/
-│   ├── components/
-│   │   ├── onboarding/
-│   │   │   ├── PersonalInfoStep.tsx
-│   │   │   ├── BusinessInfoStep.tsx
-│   │   │   └── PreferencesStep.tsx
-│   │   ├── Dashboard.tsx
-│   │   ├── DashboardCard.tsx
-│   │   ├── OnboardingWizard.tsx
-│   │   └── ProgressBar.tsx
-│   ├── context/
-│   │   └── UserContext.tsx
-│   ├── types/
-│   │   └── index.ts
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── package.json
-├── tailwind.config.js
-├── vite.config.ts
-└── index.html
+![image](https://github.com/user-attachments/assets/bd0559f9-7c10-48cb-9fb4-388f7fbe792a)
 
 
 ---
 
-## ⚙️ Getting Started
-
-### 🔧 Installation
+### Installation
 
 ```bash
 # Clone the repository
@@ -89,24 +66,19 @@ cd Onboarding_Dashboard
 
 # Install dependencies
 npm install
-
 # Run the app
 npm run dev
 
 The app will start on http://localhost:5173 or the next available port.
+```
 
+---
 📦 Production Build
 To build the app for production:
+```bash
 npm run build
+```
 This will generate the optimized files in the dist/ folder.
-
-🧪 Demo Flow for Presentation
-Start with the Onboarding Wizard — fill in the steps or submit empty to see validation.
-Watch the animated progress bar and smooth transitions.
-After submission, view the dashboard auto-redirect.
-Highlight user info, cards, and (optionally) the chart.
-Refresh the browser to verify data persistence with localStorage.
-Resize the window to showcase mobile responsiveness.
 
 🔗 Deployment
 This project is deployed on Netlify.
