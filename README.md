@@ -9,9 +9,7 @@ A clean, responsive onboarding and dashboard web application built with **React*
 
 ## 📝 Task Overview
 
-**Frontend Assignment:** Build a fully functional onboarding flow and dashboard using modern web technologies.
-
-### ✅ What Was Built:
+** Built a fully functional onboarding flow and dashboard using modern web technologies.
 
 #### 1️⃣ Multi-step Onboarding Wizard
 - **Step 1:** Personal Info – Name, Email  
@@ -27,10 +25,9 @@ A clean, responsive onboarding and dashboard web application built with **React*
 - Auto-redirects after successful onboarding
 - Displays user info submitted during onboarding
 - Three informative cards:
-  - 🧑‍🤝‍🧑 Team Members Count
-  - 📂 Active Projects
-  - 🔔 Notifications
-- *(Bonus)*: Includes a chart showing weekly activity via **Recharts**
+  -  Team Members Count
+  -  Active Projects
+  -  Notifications
 
 #### 3️⃣ Bonus Touches
 - Persistent user data using `localStorage`
@@ -59,18 +56,20 @@ A clean, responsive onboarding and dashboard web application built with **React*
 
 ### Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/Jyothi-CY/Onboarding_Dashboard.git
 cd Onboarding_Dashboard
 
 # Install dependencies
+```bash
 npm install
+```
 # Run the app
+```bash
 npm run dev
+```
 
 The app will start on http://localhost:5173 or the next available port.
-```
 
 ---
 📦 Production Build
@@ -84,4 +83,3 @@ This will generate the optimized files in the dist/ folder.
 This project is deployed on Netlify.
 
 🌍 Live Site: https://magical-panda-fc9e76.netlify.app
-🔐 Claim Netlify Ownership: Claim Deployment
