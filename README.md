@@ -17,7 +17,7 @@ Built a fully functional onboarding flow and dashboard using modern web technolo
 - **Step 3:** Preferences – Theme, Default Layout  
 - **Core Features:**
   - Progress bar with animation
-  - “Next”, “Back”, and “Submit” navigation
+  - "Next", "Back", and "Submit" navigation
   - Input validation for all required fields
   - Smooth transitions and error handling
 
@@ -30,7 +30,7 @@ Built a fully functional onboarding flow and dashboard using modern web technolo
   -  Notifications
 
 #### 3️⃣ Bonus Touches
-- Persistent user data using `localStorage`
+- Persistent user data using Local Storage
 - Fully responsive layout for mobile & desktop
 - Smooth micro-interactions & UI transitions
 
